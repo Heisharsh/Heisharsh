@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Manish...
 
-I build whatever the hell I like to build...mostly around web and cloud. 
+I build whatever the hell I want...mostly around web and cloud. 
 
 
 
